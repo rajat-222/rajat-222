@@ -7,13 +7,39 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajat-222" alt="rajat-222" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rajatbisht" target="blank"><img src="https://img.shields.io/twitter/follow/rajatbisht?logo=twitter&style=for-the-badge" alt="rajatbisht" /></a> </p>
-
+<span>
 - 🌱 I’m currently learning **Devops**
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **bisrajat123@gmail.com**
 
+  <animated-image data-catalyst="" style="float: right; width: 330px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c1440c268f851ed76ac595b1e62fa9fbf032ca04310d0bf99b953aac746fd3d5/68747470733a2f2f63646e2e6d79706f7274666f6c696f2e636f6d2f32666366636231303337383832353134353061383330343337386466666465642f61363263303437662d383336392d343933632d616231342d3731656635316265626335355f72775f313230302e6769663f683d6538633763653535623332363331396561636133313663633165373435313866" data-target="animated-image.originalLink"><img align="right" alt="coding" src="https://camo.githubusercontent.com/c1440c268f851ed76ac595b1e62fa9fbf032ca04310d0bf99b953aac746fd3d5/68747470733a2f2f63646e2e6d79706f7274666f6c696f2e636f6d2f32666366636231303337383832353134353061383330343337386466666465642f61363263303437662d383336392d343933632d616231342d3731656635316265626335355f72775f313230302e6769663f683d6538633763653535623332363331396561636133313663633165373435313866" data-canonical-src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/c1440c268f851ed76ac595b1e62fa9fbf032ca04310d0bf99b953aac746fd3d5/68747470733a2f2f63646e2e6d79706f7274666f6c696f2e636f6d2f32666366636231303337383832353134353061383330343337386466666465642f61363263303437662d383336392d343933632d616231342d3731656635316265626335355f72775f313230302e6769663f683d6538633763653535623332363331396561636133313663633165373435313866" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="coding" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/c1440c268f851ed76ac595b1e62fa9fbf032ca04310d0bf99b953aac746fd3d5/68747470733a2f2f63646e2e6d79706f7274666f6c696f2e636f6d2f32666366636231303337383832353134353061383330343337386466666465642f61363263303437662d383336392d343933632d616231342d3731656635316265626335355f72775f313230302e6769663f683d6538633763653535623332363331396561636133313663633165373435313866" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="330" height="249"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play coding" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play coding">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="Open coding in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/c1440c268f851ed76ac595b1e62fa9fbf032ca04310d0bf99b953aac746fd3d5/68747470733a2f2f63646e2e6d79706f7274666f6c696f2e636f6d2f32666366636231303337383832353134353061383330343337386466666465642f61363263303437662d383336392d343933632d616231342d3731656635316265626335355f72775f313230302e6769663f683d6538633763653535623332363331396561636133313663633165373435313866" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image>
+</span>
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
